@@ -5,3 +5,4 @@ pypdf
 python-dotenv # Still useful for local testing, though Streamlit Cloud uses secrets.toml
 streamlit
 langchain_community
+pysqlite3-binary
