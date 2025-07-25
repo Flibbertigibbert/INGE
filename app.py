@@ -1,5 +1,8 @@
 # streamlit_app.py
 __import__('pysqlite3')
+import sys               # Import sys module
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import os
 import streamlit as st
 import time
