@@ -1,4 +1,5 @@
 # streamlit_app.py
+__import__('pysqlite3')
 import os
 import streamlit as st
 import time
