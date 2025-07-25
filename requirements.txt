@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-chroma
+pypdf
+python-dotenv # Still useful for local testing, though Streamlit Cloud uses secrets.toml
+streamlit
+langchain_community
