@@ -6,3 +6,4 @@ python-dotenv # Still useful for local testing, though Streamlit Cloud uses secr
 streamlit
 langchain_community
 pysqlite3-binary
+nest_asyncio
